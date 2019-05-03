@@ -9,6 +9,7 @@
 import UIKit
 
 class ViewController: UIViewController {
+    var previousNumber1 : Double = 0;
 
     var numberOnScreen : Double = 0;
     var previousNumber : Double = 0;
